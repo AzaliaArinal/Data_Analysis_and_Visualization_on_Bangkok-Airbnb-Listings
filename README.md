@@ -65,12 +65,12 @@ Berdasarkan hasil uji Chi-square, [ada/tidak ada] bukti statistik yang signifika
 
 
 4. Optimasi Kebijakan Minimum Nights:
-   - Sesuaikan kebijakan minimum nights berdasarkan tren performa.
+   - Sesuaikan kebijakan ke rentang 2-3 malam untuk mayoritas listing.
    - Pertimbangkan fleksibilitas dalam kebijakan ini untuk meningkatkan okupansi.
 
 
 5. Strategi Stay Type:
-   - Kembangkan strategi berbeda untuk listing jangka pendek dan jangka panjang.
+   - Kembangkan strategi berbeda untuk Short-Term dan Long-Term.
    - Sesuaikan fitur dan layanan berdasarkan preferensi tamu untuk setiap jenis listing.
 
 
@@ -79,17 +79,17 @@ Berdasarkan hasil uji Chi-square, [ada/tidak ada] bukti statistik yang signifika
    - Fokus pada elemen yang membedakan listing berkinerja tinggi.
 
 
-7. Analisis dan Monitoring Berkelanjutan:
+7. Strategi Pemasaran Terfokus:
+   - Kembangkan kampanye pemasaran yang ditargetkan berdasarkan tipe kamar, lokasi, dan durasi menginap.
+   - Manfaatkan media sosial dan platform online untuk mempromosikan listing unggulan.
+
+8. Analisis dan Monitoring Berkelanjutan:
    - Lakukan analisis performa secara berkala untuk mengidentifikasi tren dan peluang baru.
    - Gunakan data untuk terus menyempurnakan strategi pengelolaan properti.
 
-8. Strategi Diferensiasi:
-   Jika ada hubungan signifikan, kembangkan strategi yang berbeda untuk listing short-term dan long-term untuk mengoptimalkan kinerja masing-masing.
+9. Edukasi Host:
+   - Berikan panduan dan pelatihan kepada host tentang praktik terbaik berdasarkan insights dari analisis data.
+   - Dorong host untuk mengadopsi strategi yang terbukti meningkatkan performa listing.
 
-9. Alokasi Sumber Daya:
-   Fokuskan sumber daya pada tipe menginap yang menunjukkan proporsi kinerja tinggi yang lebih besar, sambil tetap meningkatkan kinerja tipe lainnya.
 
-10. Penelitian Lanjutan:
-   Jika tidak ada hubungan signifikan, lakukan penelitian lebih lanjut untuk mengidentifikasi faktor-faktor lain yang mungkin lebih berpengaruh terhadap kinerja listing.
-
-Dengan menerapkan rekomendasi ini, perusahaan dapat meningkatkan performa keseluruhan portfolio listing mereka, mengoptimalkan pendapatan, dan meningkatkan kepuasan tamu. Penting untuk terus melakukan evaluasi dan penyesuaian strategi berdasarkan perubahan tren pasar dan preferensi konsumen.
+Dengan menerapkan rekomendasi ini, perusahaan dapat meningkatkan performa keseluruhan listing mereka, mengoptimalkan pendapatan, dan meningkatkan kepuasan tamu. Penting untuk terus melakukan evaluasi dan penyesuaian strategi berdasarkan perubahan tren pasar dan preferensi konsumen.
